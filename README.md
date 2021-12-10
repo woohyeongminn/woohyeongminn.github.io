@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
-[우형민](my-intro.md)쓰 홈페이지!!!!  
-어서오고
+[우형민](my-intro.md)
+WelCome
 
 You can use the [editor on GitHub](https://github.com/woohyeongminn/woohyeongminn.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
